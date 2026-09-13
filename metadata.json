@@ -1,0 +1,6 @@
+{
+  "name": "AI Assistant",
+  "description": "Personal AI Assistant with Background Service, Online/Offline/Hybrid intelligence, Voice & Wake Word recognition, Local Room Memory, and strict Privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
